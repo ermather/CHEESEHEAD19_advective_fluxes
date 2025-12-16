@@ -1,0 +1,26 @@
+Things to fix/do later
+- Run full lenghth of synthetic data, look at results, deal with any issues that come up
+- Look at NSEW v. up/down interpolation
+- Run with different interpolation kernels
+- Write up Stefan's method
+- 
+
+
+- Move functions into modules (?)
+- Consider case when caclculated and measured wind speeds are similar
+- Review windspeed calcs - does it all make sense
+- Look at raw PFA data - do I have pressure at 30m, if not just use nearest tower at 30 m
+- Should I calculate pressure at midway height of tower for density?
+- Figure out how to handle towers shorter than 30m
+- Figure out true tower heights and how to handle this in calcs
+
+
+
+
+
+
+
+
+
+NSEW -> 
+

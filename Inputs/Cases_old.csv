@@ -1,0 +1,17 @@
+﻿case,grad_method,interp_dist,interp_dir,interp_kernel,stability
+1,interp,1000,updown,thin_plate_spline,Benoit
+2,interp,500,NSEW,thin_plate_spline,None
+3,interp,1000,NSEW,thin_plate_spline,None
+4,interp,2000,NSEW,thin_plate_spline,None
+5,interp,20,updown,thin_plate_spline,None
+6,interp,100,updown,thin_plate_spline,None
+7,interp,500,updown,thin_plate_spline,None
+8,interp,1000,updown,thin_plate_spline,None
+9,interp,2000,updown,thin_plate_spline,None
+10,interp,5000,updown,thin_plate_spline,None
+11,interp,10000,updown,thin_plate_spline,None
+12,interp,1000,updown,linear,None
+13,interp,1000,updown,cubic,None
+14,interp,1000,updown,quintic,None
+15,interp,1000,updown,multiquadric,None
+16,gradavg,None,None,None,None
